@@ -1,2 +1,2 @@
-# CS60050
-Machine Learning Assignments of Course offered by IIT kharagpur
+
+# Each folder Contains:Problem statement,Dataset corresponding to the problem,Code file/s written from scratch in python using minimal libraries,
